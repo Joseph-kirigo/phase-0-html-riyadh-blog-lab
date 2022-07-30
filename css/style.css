@@ -6,11 +6,12 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  /* background: url(../images/backgrounds/architecture.jpg) center no-repeat; */
   background-size: cover;
+  background-color: blue;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-size: 120%;
 }
 
 .wrapper {
@@ -53,6 +54,7 @@ img {
 
 p {
   font-size: 1em;
+  color: #fff;
 }
 
 a {
